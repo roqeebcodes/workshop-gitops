@@ -6,4 +6,4 @@ resources:
 - route.yaml
 images:
 - name: quay.apps.cluster-x8cz4.dyn.redhatworkshops.io/workshop/gitops-demo
-  newTag: v1
+  newTag: v2
