@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: gitops-demo
-        image: /workshop/gitops-demo
+        image: quay.apps.cluster-x8cz4.dyn.redhatworkshops.io/workshop/gitops-demo
         ports:
         - containerPort: 8080
         resources:
